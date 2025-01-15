@@ -70,5 +70,3 @@
 ## Просмотр проекта
 [Открыть Google Sheets](https://docs.google.com/spreadsheets/d/1Ngx78VGhuxMs2GZrLcrsLeOVcBrdJDPndcA4rF2aklU/edit?usp=sharing)
 
-## Файлы
-- Скриншоты графиков.
