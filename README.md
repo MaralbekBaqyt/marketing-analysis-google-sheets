@@ -1,5 +1,8 @@
 # Marketing Analysis with Google Sheets
 
+## Просмотр проекта
+[Открыть Google Sheets](https://docs.google.com/spreadsheets/d/1Ngx78VGhuxMs2GZrLcrsLeOVcBrdJDPndcA4rF2aklU/edit?usp=sharing)
+
 ## Цель проекта
 Этот проект посвящен анализу эффективности интернет рекламы и сайта на основе данных за июнь-июль 2022 года онлайн магазина. 
 
@@ -67,7 +70,3 @@
 - Рассмотреть корректировку или прекращение C1.
   Проанализировать причины низкой окупаемости (например, качество аудитории, креативы, целевую страницу).
   Если оптимизация не улучшит ROMI, стоит перераспределить бюджет на более эффективные кампании.
-
-## Просмотр проекта
-[Открыть Google Sheets](https://docs.google.com/spreadsheets/d/1Ngx78VGhuxMs2GZrLcrsLeOVcBrdJDPndcA4rF2aklU/edit?usp=sharing)
-
